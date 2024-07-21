@@ -1,5 +1,4 @@
 # js_array
-# js30
 
 This is a 30-days javascript grinding  
 js30: [https://github.com/ningh98/js30]   
